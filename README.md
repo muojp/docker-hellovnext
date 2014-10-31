@@ -55,6 +55,6 @@ Hello World!!!!
 ### Launch 'KestrelHTTPServer' instead of default Web server
 
 ```
-$ docker run -i -t -p 5000:5000 muojp/docker-hellovnext:latest k kestrel
+$ docker run -d -i -t -p 5000:5000 muojp/docker-hellovnext:latest k kestrel
 ```
 
