@@ -2,6 +2,9 @@
 
 Dockerfile for somebody wants to give a try on ASP.NET vNext on Mono.
 
+*Notice: this repository is outdated. It's based on quite early preview version and
+replaced by [hellovnext-docker repo](https://github.com/muojp/hellovnext-docker) with automated build result located at [hellovnext-docker on Docker Hub](https://registry.hub.docker.com/u/muojp/hellovnext-docker/).*
+
 ## How to run
 
 ```
